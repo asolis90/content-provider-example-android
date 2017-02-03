@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContentProvidersExample</string>
+    <string name="get_contacts">Get Contacts</string>
+    <string name="contact_info_title">Contacts Information</string>
+    <string name="phone_number">Phone Number: </string>
+    <string name="name">Name: </string>
+</resources>
